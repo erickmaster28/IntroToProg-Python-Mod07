@@ -1,0 +1,32 @@
+[
+  {
+    "FirstName": "Peter",
+    "LastName": "Parker",
+    "CourseName": "Biology 100"
+  },
+  {
+    "FirstName": "Tony",
+    "LastName": "Stark",
+    "CourseName": "Engineering 400"
+  },
+  {
+    "FirstName": "Erick",
+    "LastName": "Epley",
+    "CourseName": "Python 100"
+  },
+  {
+    "FirstName": "Luke",
+    "LastName": "Skywalker",
+    "CourseName": "Fencing 200"
+  },
+  {
+    "FirstName": "Ted",
+    "LastName": "Lasso",
+    "CourseName": "Soccer 100"
+  },
+  {
+    "FirstName": "James",
+    "LastName": "Kirk",
+    "CourseName": "Piloting 300"
+  }
+]
